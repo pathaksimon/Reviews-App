@@ -1,0 +1,23 @@
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.centerone {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card1 {
+  width: 60%;
+  height: 70vh;
+}
+
+.button1 {
+  background-color: transparent;
+  border: none;
+}
